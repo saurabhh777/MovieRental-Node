@@ -1,0 +1,4 @@
+{
+   "jwtPrivatekey":"movie_rental_jwtPrivateKey",
+   "db":"movie-rental-project_db" 
+}
